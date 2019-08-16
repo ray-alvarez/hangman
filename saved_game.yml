@@ -1,0 +1,44 @@
+---
+secret_word:
+- p
+- o
+- r
+- t
+- a
+- b
+- i
+- l
+- i
+- t
+- y
+hidden_word:
+- _
+- o
+- _
+- _
+- a
+- _
+- i
+- _
+- _
+- _
+- _
+wrong characters:
+- e
+- u
+- c
+- d
+- f
+- g
+- h
+- j
+- k
+- m
+- m
+- q
+- s
+- v
+- w
+- x
+- z
+guesses_left: 7
